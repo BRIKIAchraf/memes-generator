@@ -1,1 +1,1 @@
-# JWT-practice
+# meme-generator
